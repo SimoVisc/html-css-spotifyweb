@@ -2,4 +2,20 @@ header{
     position:fixed;
     right: 0;
     left:300px;
+    justify-content: end;
+    padding:10px;
+    background: rgba(0, 0, 0, 0.8);
+}
+@media screen and (max-width:600px) {
+    header{
+        left:100px;
+    }
+}
+.btn{
+    color:#fff; 
+    border: #fff solid;
+    background-color: black;
+    border-radius: 40%;
+    justify-content: flex-end;
+    padding:10px 40px;
 }

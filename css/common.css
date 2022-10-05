@@ -1,9 +1,17 @@
 /* COMMON */
 Body{
+    font-family: 'Montserrat', sans-serif;
     height:100vh;
 }
 .flex{
     display: flex;
+}
+.w-100{
+    width:100%
+}
+.icona{
+    width: 40px;
+    padding: 5px;
 }
 /* PAGE CONTAINER */
 .page-container{
