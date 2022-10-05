@@ -1,7 +1,7 @@
 header{
     position:fixed;
     right: 0;
-    left:300px;
+    left:200px;
     justify-content: end;
     padding:10px;
     background: rgba(0, 0, 0, 0.8);
@@ -15,7 +15,7 @@ header{
     color:#fff; 
     border: #fff solid;
     background-color: black;
-    border-radius: 40%;
+    border-radius: 40px;
     justify-content: flex-end;
     padding:10px 40px;
 }

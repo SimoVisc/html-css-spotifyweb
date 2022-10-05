@@ -1,3 +1,21 @@
 main{
-    width:calc(100% - 300px)
+    width:calc(100% - 300px);
+}
+main ul{
+    padding-top: 60px;
+    justify-content: center;
+}
+main li{
+    color: #7d7f84;
+    list-style: none;
+    padding-right: 15px;
+}
+.row{
+    flex-wrap: nowrap;
+}
+.col{
+    width: calc(100%/6);
+}
+.col img{
+    width:50%
 }

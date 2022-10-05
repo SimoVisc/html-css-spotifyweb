@@ -10,11 +10,11 @@ Body{
     width:100%
 }
 .icona{
-    width: 40px;
-    padding: 5px;
+    width: 30px;
+    padding: 5px 5px 5px 0;
 }
 /* PAGE CONTAINER */
 .page-container{
     height: calc(100% - 80px);
-    background-color: lightgreen;
+    background-color:#141922;
 }
