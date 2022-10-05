@@ -1,0 +1,18 @@
+/* RESET */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* COMMON */
+Body{
+    height:100vh;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+header{
+    position:fixed;
+    right: 0;
+    left:300px;
+}
