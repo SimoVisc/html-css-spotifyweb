@@ -1,0 +1,12 @@
+/* COMMON */
+Body{
+    height:100vh;
+}
+.flex{
+    display: flex;
+}
+/* PAGE CONTAINER */
+.page-container{
+    height: calc(100% - 80px);
+    background-color: lightgreen;
+}
