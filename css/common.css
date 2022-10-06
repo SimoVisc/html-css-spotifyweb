@@ -13,6 +13,9 @@ Body{
     width: 30px;
     padding: 5px 5px 5px 0;
 }
+.color-white{
+    color: #fff;
+}
 /* PAGE CONTAINER */
 .page-container{
     height: calc(100% - 80px);
