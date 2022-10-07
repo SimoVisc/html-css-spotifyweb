@@ -5,16 +5,16 @@ main{
     overflow-y: auto;
 }
 main ul{
-    padding-top: 60px;
+    padding-top: 3.75rem;
     justify-content: center;
-    margin-bottom: 20px;
+    margin-bottom: 1.25rem;
     flex-wrap: wrap;
 }
 main li{
     text-align:center;
     color: #7d7f84;
     list-style: none;
-    padding-right: 15px;
+    padding-right: 0.9375rem;
 }
 .row{
     justify-content: center;

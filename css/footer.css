@@ -1,4 +1,51 @@
 footer{
-    height: 80px;
-    background-color: red;
+    height: 5rem;
+    background-color: black;
+    position:fixed;
+    right: 0;
+    left:0;
+    padding:0.625rem;
+}
+.left-footer, .right-footer{
+    width: 20%;
+    align-items: center;
+}
+.img-footer{
+    width:30%;
+    padding: 0.625rem;
+}
+.center-footer{
+    width:60%;
+    flex-grow: 1;
+    padding: 1rem;
+}
+.line-footer{
+    justify-content: center;
+    align-items: center;
+    margin-top:	0.3125rem
+}
+.icon-footer{
+    justify-content: center;
+    align-items: center;
+}
+.hr-footer{
+    width:12.5rem;
+    height: 0.1875rem;
+    margin: 0.625rem;
+    border: #fff solid;
+    border-radius:1.25rem;
+}
+footer i{
+    color: #fff;
+    margin: 0 1.25rem;
+}
+.right-footer{
+    justify-content: flex-end;
+    align-items: center;
+}
+.hr-footer-right{
+    width:12.5rem;
+    height: 0.09rem;
+    border: gray solid;
+    border-radius:1.25rem;
 }
