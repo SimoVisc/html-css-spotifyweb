@@ -1,21 +1,21 @@
 header{
     position:fixed;
     right: 0;
-    left:200px;
+    left:12.5rem;
     justify-content: end;
-    padding:10px;
+    padding:0.625rem;
     background: rgba(0, 0, 0, 0.8);
 }
 @media screen and (max-width:600px) {
     header{
-        left:100px;
+        left:6.25rem;
     }
 }
 .btn{
     color:#fff; 
     border: #fff solid;
     background-color: black;
-    border-radius: 40px;
+    border-radius: 2.5rem;
     justify-content: flex-end;
-    padding:10px 40px;
+    padding:0.625rem 2.5rem;
 }

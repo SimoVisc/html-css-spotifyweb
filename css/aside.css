@@ -50,7 +50,7 @@ aside i{
 }
 .download{
     width:1.875rem;
-    padding-right:10px
+    padding-right:0.625rem;
 }
 .install, .li-user{
     align-items: center;
@@ -58,11 +58,11 @@ aside i{
 /* responsive */
 @media screen and (max-width:600px){
     aside{
-        width:80px;
+        width:3.125rem;
     }
     .logo-small{
         display:block;
-        height:40px;
+        height:2.5rem;
     }
     .logo, span, .li-playlist, .li-nameplaylist{
         display:none;
