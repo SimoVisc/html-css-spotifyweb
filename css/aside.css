@@ -3,6 +3,7 @@ aside{
     background-color: black;
 }
 .container-aside{
+    position:relative;
     width: 100%;
     overflow-y: hidden;
 }
@@ -45,4 +46,8 @@ aside i{
 }
 .green-border-aside{
     border-left: yellowgreen solid;
+}
+.container-nomeplaylist{
+    overflow-y:auto;
+    width: 100%;
 }

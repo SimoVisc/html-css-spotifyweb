@@ -23,7 +23,6 @@ main li{
     justify-content: center;
     flex-wrap: wrap;
     color: #7d7f84;
-
 }
 .col img{
     width:100%;
@@ -36,4 +35,16 @@ main li{
     width:40px;
     text-align: center;
 }
+.color-gray{
+    color: #7d7f84;
+}
+.second-row{
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    width: 100%;
+}
+.container-music2{
+    padding-top: 20px;
+}
+
 
